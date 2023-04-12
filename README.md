@@ -1,4 +1,4 @@
-#New Twitter 
+# New Twitter 
 
 In this lab, you will be practicing **Inheritance and its related concepts**. **Inheritance** is one of the key aspects that make Object-Oriented Programming (OOP) possible and incentivizes code **reuse** by modeling an **“is-a” relation** between an existing class (**Superclass**) and derived classes (**Subclasses**).
 
